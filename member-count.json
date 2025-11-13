@@ -1,9 +1,9 @@
 {
   "member_count": 90,
   "trucky_stats": {
-    "max_revenue": 0,
-    "jobs_delivered": 0,
-    "distance_driven_on_job_km": 0,
-    "updated_at": "2025-11-13T15:18:17.368Z"
+    "max_revenue": 25040263,
+    "jobs_delivered": 202,
+    "distance_driven_on_job_km": 112523.4,
+    "updated_at": "2025-11-13T15:53:38.369Z"
   }
 }
