@@ -1,11 +1,11 @@
 {
-  "member_count": 803,
+  "member_count": 804,
   "trucky_stats": {
     "max_revenue": 25040263,
-    "jobs_delivered": 12925,
-    "distance_driven_on_job_km": 11524495.79,
-    "updated_at": "2026-08-20T22:50:37.227Z",
-    "total_earned_money": 27336878048
+    "jobs_delivered": 12926,
+    "distance_driven_on_job_km": 11525032.79,
+    "updated_at": "2026-08-20T23:00:43.673Z",
+    "total_earned_money": 27336921011
   },
   "VTC_Members": 155
 }
